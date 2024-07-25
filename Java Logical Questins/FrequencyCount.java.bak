@@ -1,4 +1,4 @@
-//checks if two arrays contain the same elements.
+ //checks if two arrays contain the same elements.
 import java.util.*;
 class FrequencyCount{
    public static void main(String[] args) 
